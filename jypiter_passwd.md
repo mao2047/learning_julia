@@ -16,3 +16,5 @@ and then find the Jupyter subdirectory to generate a config file:
 run: ~/.julia/conda/3/bin/jupyter notebook password
 
 then type in a new password
+
+actualizado de [aquí](https://discourse.julialang.org/t/ijulia-password-token-requirement/4974)
